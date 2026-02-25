@@ -1,0 +1,7 @@
+# rclone secrets 
+# Secrets
+.config/
+*.conf
+
+.config/rclone/
+rclone.conf
